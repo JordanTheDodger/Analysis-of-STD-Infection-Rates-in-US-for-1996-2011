@@ -3,7 +3,7 @@ It revolves around the complete process of Data Analysis including Visualization
 
 # Libraries used:
 numpy<br>
-pandas
-matplotlib
-seaborn
+pandas<br>
+matplotlib<br>
+seaborn<br>
 ploty express
